@@ -1,0 +1,57 @@
+
+
+
+.scrollable {
+    height: 320px;
+    overflow: scroll;
+
+}
+
+.imprumuturi{
+    color:whitesmoke;
+    background-color: #333;
+    text-align:center;
+    
+
+}
+
+.banci{
+    color:whitesmoke;
+    background-color: #333;
+    text-align:center;
+    
+
+}
+
+.clienti{
+    color:whitesmoke;
+    background-color: #333;
+    text-align:center;
+
+
+}
+
+.card_banci{
+    position:relative;
+    top: 75px;
+    left: 100px;
+    color:white;
+
+}
+
+.card_clienti{
+    position:relative;
+    top: -320px;
+    left: 800px;
+    color:white;
+
+}
+
+.card_imprumuturi{
+    position:relative;
+    top: -715px;
+    left: 1500px;
+    color:white;
+
+
+}
